@@ -5,7 +5,12 @@
 </div>
 
 ## :innocent: Motivation
-During the Covid-19 times when everyone was busy lamenting over the problems, the country or more generally the world is facing. I was busy making this Artificial Intelligence based smart distancing monitoring system.
+✔ WHO advises to wear mask and prevent touching Nose, Face and Eyes.
+✔ WHO advises to maintain social distancing.
+✔ Minimum permissible distance is 1 metre (3 feet). 
+✔ Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.
+
+So, During the lockdown when everyone was busy lamenting over the problems, the world is facing. I was busy making this Artificial Intelligence based smart distancing monitoring system.
 
  
 ## :star: Unique Selling Point (Social Distancing System)
@@ -24,7 +29,7 @@ Feel free to mail us for any doubts/query
 techmayank2000@gmail.com
 
 ## :clap: VideoLink as a sample output for social distancing system
-[![Watch the video](https://github.com/tech-mayank/AI-Based-Mask-Detection-System-/blob/master/191.png)](https://youtu.be/taAlsE78Vv4)
+[![Watch the video](https://github.com/tech-mayank/AI-based-smart-distancing/blob/master/thumbnail/Screenshot%20(444).png)](https://youtu.be/taAlsE78Vv4)
 
 ## :clap: Use Cases
 ✔ Can be used at hospitals<br />
