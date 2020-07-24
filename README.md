@@ -5,10 +5,10 @@
 </div>
 
 ## :innocent: Motivation
-✔ WHO advises to wear mask and prevent touching Nose, Face and Eyes.
-✔ WHO advises to maintain social distancing.
-✔ Minimum permissible distance is 1 metre (3 feet). 
-✔ Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.
+✔ WHO advises to wear mask and prevent touching Nose, Face and Eyes.<br />
+✔ WHO advises to maintain social distancing.<br />
+✔ Minimum permissible distance is 1 metre (3 feet).<br /> 
+✔ Prevention is the only way to control spread of Novel Corona Virus and will lead of flattening of curve.<br />
 
 So, During the lockdown when everyone was busy lamenting over the problems, the world is facing. I was busy making this Artificial Intelligence based smart distancing monitoring system.
 
